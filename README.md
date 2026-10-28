@@ -1,5 +1,6 @@
 # low-fedility-attenedence-app-
-Prototype link - https://www.figma.com/design/drtMQAt9s3sQMROliUCX4p/Untitled?node-id=0-1&t=z72FktynSeZAe9lI-1
+Design link - https://www.figma.com/design/drtMQAt9s3sQMROliUCX4p/Untitled?node-id=0-1&p=f&t=YbnwP8KTq8aERYC2-0
+Prototype Link - https://www.figma.com/proto/drtMQAt9s3sQMROliUCX4p/Untitled?node-id=0-1&t=YbnwP8KTq8aERYC2-1
 
 ## 📌 Project Overview
 The Student Attendance Management Dashboard is a user-friendly interface designed to manage student attendance and academic records. It provides attendance summaries, student profiles, class details, and analytics reports in one place.
